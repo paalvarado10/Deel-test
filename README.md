@@ -1,5 +1,12 @@
 # DEEL BACKEND TASK
 
+
+### Docs
+After running the app go to ***port***/api-docs
+
+### Tests
+to run the tests `npm run test`
+  
   
 
 💫 Welcome! 🎉
